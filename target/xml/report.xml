@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="20.301543">
-<testcase classname="login functionality" name="Verify login functionality using valid credentials" time="20.301543">
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="24.376936">
+<testcase classname="login functionality" name="Verify login functionality using valid credentials" time="24.376936">
 <system-out><![CDATA[Given user is in bank home page.............................................passed
 When user enters valid username.............................................passed
 And user enters valid password..............................................passed
